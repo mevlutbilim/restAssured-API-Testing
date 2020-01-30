@@ -1,6 +1,5 @@
-package day2;
+package com.automation.tests.day2;
 
-import io.restassured.http.Header;
 import io.restassured.response.Response;
 import org.junit.jupiter.api.Test;
 
